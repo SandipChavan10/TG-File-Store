@@ -70,12 +70,14 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-
-
-
-
-
 """
+
+
+
+
+
+
+
 
     # creating buttons
     buttons = [
