@@ -82,11 +82,12 @@ async def about_cb(c, m):
     # creating buttons
     buttons = [
         [
-            InlineKeyboardButton('Home 🏕', callback_data='home'),
-            InlineKeyboardButton('Help 💡', callback_data='help')
+            InlineKeyboardButton('Home 🏠', callback_data='home'),
+            InlineKeyboardButton('Help 😣', callback_data='help')
+            InlineKeyboardButton('Rewiew⭐⭐⭐⭐⭐'callback_data='Rewiew'
         ],
         [
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('Close 🙈', callback_data='close')
         ]
     ]
 
